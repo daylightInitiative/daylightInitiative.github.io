@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+## Programming Journey Blog
+In this blog, I'll document the current things I'm learning programming wise, (LL) Lessons learned and thought provoking questions.
